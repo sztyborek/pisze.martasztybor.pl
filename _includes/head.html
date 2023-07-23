@@ -1,0 +1,67 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title | strip_html }} &#8211; {% endif %}{{ site.title | strip_html }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{% if page.meta_description %}{{ page.meta_description | xml_escape }}{% elsif page.summary %}{{ page.summary | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
+    {% if page.categories %}<meta name="keywords" content="{{ page.categories | join: ', ' }}">{% endif %}
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}?{{ site.time | date: "%Y%m%d%H%M" }}" type="text/css">
+
+    <!-- Fonts -->
+    <!-- <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet"> -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,300;0,400;0,600;1,400&family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+
+    <!-- MathJax -->
+    {% if site.enable_mathjax %}
+    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    {% endif %}
+
+    <!-- Verifications -->
+    {% if site.google_verification %}
+      <meta name="google-site-verification" content="{{ site.google_verification }}" />
+    {% endif %}
+    {% if site.bing_verification %}
+      <meta name="msvalidate.01" content="{{ site.bing_verification }}" />
+    {% endif %}
+
+    <!-- Open Graph -->
+    <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
+    <meta property="og:locale" content="{{ site.text.og_locale }}">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.title | xml_escape }}{% endif %}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:site_name" content="{{ site.title | xml_escape }}">
+
+    <!-- MailerLite Universal -->
+    <script>
+      (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+      .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+      n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+      (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+      ml('account', '437252');
+    </script>
+    <!-- End MailerLite Universal -->
+
+    <!-- Fontawesome -->
+    <script src="https://kit.fontawesome.com/0c2c4acd5c.js" crossorigin="anonymous"></script>
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KMTL47CT2T"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-KMTL47CT2T');
+    </script>
+
+</head>

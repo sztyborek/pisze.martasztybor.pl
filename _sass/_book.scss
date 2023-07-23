@@ -1,0 +1,53 @@
+.book__content {
+    display: flex;
+    flex-direction: column;
+
+    @media screen and (min-width: 992px) {
+        flex-direction: row;
+    }
+}
+
+.book__description {
+    @media screen and (min-width: 992px) {
+        flex: 1 0 50%;
+        margin-left: 3rem;
+    }
+}
+
+.book__preview {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    font-size: .75rem;
+    background: #f6e5f0;
+    padding: .25rem 0;
+}
+
+.book__privacy-policy {
+    margin-top: .5rem;
+    font-size: .75rem;
+    margin-bottom: 2.5rem;
+}
+
+.book__about-author {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5rem;
+
+    @media screen and (min-width: 992px) {
+        flex-direction: row;
+        width: 90%;
+        margin: 5rem auto 0 auto;
+    }
+
+    p {
+        font-size: .85rem;
+    }
+}
+
+.book__author-photo {
+    height: 320px;
+    object-fit: contain;
+    display: inline-block;
+    margin-right: 2rem;
+}

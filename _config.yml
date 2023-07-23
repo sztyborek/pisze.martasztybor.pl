@@ -1,0 +1,15 @@
+title: Marta Sztybor pisze
+email: hej@martasztybor.pl
+description: Marta Sztybor pisze
+baseurl: ""
+url: "https://pisze.martasztybor.pl"
+date_format: "%d/%m/%Y"
+instagram_username: marta.sztybor.pisze
+tiktok_username: marta.sztybor
+disqus_shortname: martasztybor
+google_analytics: G-KMTL47CT2T
+
+# Build settings
+markdown: kramdown
+sass:
+  compressed: true

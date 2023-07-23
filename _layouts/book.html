@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+  <div class="container">
+    {% include header.html %}
+    <div class="content">
+      <main class="content__main">
+        <h2 class="section-heading">
+            Książka
+        </h2>
+        <section class="book__content">
+            <div class="book__cover">
+                <img src="{{ page.image | prepend: site.baseurl }}" alt="">
+            </div>
+            <div class="book__description">
+                {{ content }}
+            </div>
+        </section>
+        <section class="book__about-author">
+          <img src="/images/marta-blob.png" alt="Marta Sztybor" class="book__author-photo">
+          <div>
+            <h3>O autorce</h3>
+            <p>Hej, tu Marta. Piszę opowieści z gatunku fantasy, których akcja rozgrywa się w magicznym akademiku.<br>
+              Z zawodu jestem programistką, a oprócz tego studiuję psychologię. Lubię spacerować po lesie i po górach, pić zieloną herbatę i jeść wszystko, co zawiera słony karmel albo masło orzechowe.<br>
+              Dotychczas napisałam jedną pełnometrażową powieść: <a href="/lustereczko-powiedz/">„Lustereczko, powiedz!”</a>, publikuję także w formie słuchowiska serię opowiadań z tego samego uniwersum: <a href="/opowiadania-z-akademika/">„Czary, stwory i kolokwia”</a>.
+            </p>
+          </div>
+        </section>
+      </main>
+    </div>
+    {% include footer.html %}
+  </div>
+
+  </body>
+
+</html>
+
+

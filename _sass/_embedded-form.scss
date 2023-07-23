@@ -1,0 +1,28 @@
+.ml-embedded {
+    margin-top: 2.5rem;
+}
+
+#mlb2-6349538.ml-form-embedContainer {
+
+    .ml-form-embedWrapper.embedForm {
+        max-width: 100% !important;
+    }
+
+    .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent h4,
+    .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent h4,
+    .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent p,
+    .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent p,
+    .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow input,
+    .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label {
+        font-family: inherit !important;
+    }
+
+    .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedSubmit button.primary {
+        font-family: 'Montserrat', sans-serif !important;
+        text-transform: uppercase !important;
+    }
+
+    .ml-form-embedWrapper .custom-checkbox-radio-list {
+        margin-top: -32px;
+    }
+}
