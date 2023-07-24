@@ -19,9 +19,9 @@ Jednak następnego ranka to Laura budzi się z nową twarzą.
 
 „Lustereczko, powiedz!” to szalona, pełna humoru historia, która porwie cię bez reszty i nie pozwoli zasnąć, zanim nie odkryjesz wszystkich tajemnic starego budynku. Otwórz drzwi magicznego Domu Studenckiego „Akademiczek”, zakwateruj się w pokoju i poszukaj odpowiedzi na pytanie: co się stało z Laurą Madej?
 
-Okładkę zaprojektowała <a href="https://www.instagram.com/dixieleota/">Dixie Leota</a>.
+Okładkę zaprojektowała <a href="https://instagram.com/dixieleota/">Dixie Leota</a>.
 
-Kategoria wiekowa: 13+
+Kategoria wiekowa: 15+
 
 <a href="/files/lustereczko-powiedz-marta-sztybor.pdf" download class="button secondary">
     <span class="fa-solid fa-download"></span>

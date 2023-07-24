@@ -20,7 +20,26 @@
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: .6rem;
-    margin-left: 1.25rem;
+
+    &::before {
+      content: '\2022';
+      padding: 0 .25rem;
+    }
+
+    @media screen and (min-width: 1024px) {
+      margin-left: 1.25rem;
+      padding: 0;
+
+      &::before {
+        content: ' ';
+        padding: 0;
+      }
+    }
+  }
+
+  li:first-child::before {
+    content: ' ';
+    padding: 0;
   }
 }
 
