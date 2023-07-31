@@ -16,9 +16,11 @@ Od 10 lat pracuję w branży IT, jako programistka. Zawodowo tworzyłam aplikacj
 
 <img src="/images/o-mnie-2.png" alt="" class="about__pic-right">
 
-Na szczęście, świat nie kończy się na pracy i zielonych literkach na czarnym ekranie. W 2020 roku postanowiłam sprawić, aby marzenie o własnej książce stało się rzeczywistością i zapisałam się do Szkoły Pisania Powieści Marii Kuli. Owocem pracy na kursie jest moja pierwsza powieść: <a href="/lustereczko-powiedz/">„Lustereczko, powiedz!”</a>, humorystyczne fantasy, którego akcja rozgrywa się w szalonym, magicznym akademiku. Oprócz tego, pracuję nad zbiorem opowiadań <a href="/opowiadania-z-akademika/">„Czary, stwory i kolokwia”</a>, których akcja również rozgrywa się w magicznym Domu Studenckim „Akademiczek”. W planach mam także kontynuację „Lustereczka”, jednak nie wiadomo, kiedy ujrzy ona światło dzienne, ponieważ (czy wspominałam już, że uwielbiam się uczyć i jestem wieczną studentką?) ze wszystkich sił próbuję teraz łączyć moją pracę w IT ze studiowaniem psychologii.
+Na szczęście, świat nie kończy się na pracy i zielonych literkach na czarnym ekranie. W 2020 roku postanowiłam sprawić, aby marzenie o własnej książce stało się rzeczywistością i zapisałam się do Szkoły Pisania Powieści Marii Kuli. Owocem pracy na kursie jest moja pierwsza powieść: <a href="/lustereczko-powiedz/">„Lustereczko, powiedz!”</a>, humorystyczne fantasy, którego akcja rozgrywa się w szalonym, magicznym akademiku.
 
-Lubię spacerować po lesie i po górach, pić zieloną herbatę i jeść wszystko, co zawiera słony karmel albo masło orzechowe.
+<!-- Oprócz tego, pracuję nad zbiorem opowiadań <a href="/opowiadania-z-akademika/">„Czary, stwory i kolokwia”</a>, których akcja również rozgrywa się w magicznym Domu Studenckim „Akademiczek”. W planach mam także kontynuację „Lustereczka”, jednak nie wiadomo, kiedy ujrzy ona światło dzienne, ponieważ (czy wspominałam już, że uwielbiam się uczyć i jestem wieczną studentką?) -->
+
+Obecnie ze wszystkich sił próbuję łączyć moją pracę w IT ze studiowaniem psychologii. Lubię spacerować po lesie i po górach, pić zieloną herbatę i jeść wszystko, co zawiera słony karmel albo masło orzechowe.
 
 Jesteś wydawcą, który jest zainteresowany moją twórczością? Chcesz zapytać o pisanie? A może po prostu zagadać? Odezwij się tu: <a href="mailto:hej@martasztybor.pl">hej@martasztybor.pl</a>.
 
