@@ -5,6 +5,7 @@ date:   2023-10-31 01:00:00 +0100
 categories: ["Opowiadania"]
 summary: Alina podążała na palcach do miejsca zbiórki. Do skórzanego pasa przytroczyła linę i kilka jutowych worków, a w prawej dłoni trzymała kij baseballowy, który wciąż nosił ślady po nieudanym starciu z mózgiem. Serce waliło jej w piersi jakby było wyrywającym się na wolność zwierzęciem. Mieli spotkać się przed wejściem do biblioteki. Gdy Alina zbiegała po schodach, wciąż nie miała pewności, czy ktokolwiek pojawi się na miejscu. Zatrzymała się na parterze i oparła o rzeźbioną balustradę.
 image: /images/grota.jpg
+image_source: Karsten Winegear / unsplash.com
 ---
 
 Alina podążała na palcach do miejsca zbiórki. Do skórzanego pasa przytroczyła linę i kilka jutowych worków, a w prawej dłoni trzymała kij baseballowy, który wciąż nosił ślady po nieudanym starciu z mózgiem. Serce waliło jej w piersi jakby było wyrywającym się na wolność zwierzęciem.
@@ -77,7 +78,7 @@ Jednak po chwili zaczęła wracać do swojego ciała. Dźwięki docierały do ni
 To był Stefan. Do pleców miał przywiązany wielki baniak, w którym chlupotał płyn. Z baniaka wił się plastikowy wąż, który chłopak podłączył do NERF-guna, z którego teraz z wielkim zapałem strzelał do mózgów.
 
 — A masz! Masz, zeżryj to! — Z uśmiechem szaleńca Stefan unicestwiał kolejne stwory, które niezrażone pikowały w jego kierunku.
-Gdy tylko któryś z nich oberwał strumieniem z pistoletu Stefana, wpadał w niekontrolowane drgania, kurczył się do rozmiarów rodzynka i znikał. Alina wpatrywała się w ten teatr szeroko otwartymi oczami. Zauważyła, jak wyswobodzeni z macek Emil i Ruta także podnoszą się z podłogi.
+Gdy tylko któryś z nich oberwał strumieniem z pistoletu Stefana, wpadał w niekontrolowane drgania, kurczył się do rozmiarów rodzynka i znikał. Alina wpatrywała się w ten teatr szeroko otwartymi oczami. Zauważyła, jak wyswobodzeni z macek Emil i R uta także podnoszą się z podłogi.
 
 Armia mózgów kurczyła się. Spanikowane stwory zbierały się do odwrotu, a chłopak gonił między regałami niedobitki, chlustając w nie z NERF-guna.
 

@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Sekretne życie mózgów – część I"
-date:   2022-10-03 01:00:00 +0100
+date:   2023-10-03 01:00:00 +0100
 categories: ["Opowiadania"]
 summary: Stefan ziewnął i podrapał się w miejscu, w którym spodnie zsuwały się z jego chudych bioder. Przekroczył próg kuchni, trzymając w dłoni rondel pełen parówek i poczłapał do jednej z gazowych kuchenek, które pamiętały lata głębokiego PRL-u. Szuranie kapci odbijało się od przybrudzonych ścian. O tej porze akademik układał się do snu, a korytarze wypełniała przytulna cisza.
 image: /images/stefan.jpg
+image_source: Nathan Wright / unsplash.com
 ---
 
 Stefan ziewnął i podrapał się w miejscu, w którym spodnie zsuwały się z jego chudych bioder. Przekroczył próg kuchni, trzymając w dłoni rondel pełen parówek i poczłapał do jednej z gazowych kuchenek, które pamiętały lata głębokiego PRL-u. Szuranie kapci odbijało się od przybrudzonych ścian. O tej porze akademik układał się do snu, a korytarze wypełniała przytulna cisza.

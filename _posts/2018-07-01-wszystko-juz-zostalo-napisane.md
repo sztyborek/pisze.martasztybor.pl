@@ -5,6 +5,7 @@ date:   2019-11-10 12:11:27 +0100
 categories: ["Myśli"]
 summary: Od kilku godzin siedzę przed komputerem i próbuję wydusić z siebie kolejny akapit tekstu. Tuż obok leży smartfon, mam tam zapisane kilka zdań zanotowanych w przelocie, których sensu teraz nie umiem już sobie przypomnieć. Chciałabym z tych wszystkich luźnych myśli, które chodzą mi po głowie, sklecić pierwszego posta, ale mi nie wychodzi. I tak, wyobraźcie sobie, już od kilku lat!
 image: /images/wszystko-juz-zostalo-napisane.jpg
+image_source: Aaron Burden / unsplash.com
 ---
 
 Od kilku godzin siedzę przed komputerem i próbuję wydusić z siebie kolejny akapit tekstu. Tuż obok leży smartfon, mam tam zapisane kilka zdań zanotowanych w przelocie, których sensu teraz nie umiem już sobie przypomnieć. Chciałabym z tych wszystkich luźnych myśli, które chodzą mi po głowie, sklecić pierwszego posta, ale mi nie wychodzi. I tak, wyobraźcie sobie, już od kilku lat!
