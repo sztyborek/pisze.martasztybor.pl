@@ -120,6 +120,18 @@ button, .button {
   color: #333;
 }
 
+.button--block {
+  display: block;
+  margin-bottom: .5rem;
+  text-align: center;
+
+  img {
+    height: 1.5rem;
+    margin-right: .5rem;
+    vertical-align: middle;
+  }
+}
+
 .clearfix::before, 
 .clearfix::after {
   content: ' ';

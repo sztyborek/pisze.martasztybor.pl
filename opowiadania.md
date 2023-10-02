@@ -5,8 +5,6 @@ permalink: /opowiadania-z-akademika/
 image: /images/czary-mockup.png
 ---
 
-<p class="book__preview">Zapowiedź</p>
-
 ## Czary, stwory i kolokwia
 
 Data premiery: 03 października 2023
@@ -15,7 +13,16 @@ Data premiery: 03 października 2023
 
 „Czary, stwory i kolokwia” to seria zwariowanych opowiadań o magicznych przygodach studentów, które pozwalają lepiej poznać świat znany z powieści <a href="/lustereczko-powiedz/">„Lustereczko, powiedz!”</a>.
 
-Pierwsze opowiadanie z serii zostanie opublikowane jako słuchowisko na początku października 2023 roku.
-
-<div class="ml-embedded" data-form="efvy7p"></div>
-<p class="book__privacy-policy">Przed zapisaniem się do newslettera zapoznaj się z <a href="/polityka-prywatnosci/">Polityką Prywatności</a>.</p>
+<br>
+<a href="https://open.spotify.com/show/6LaGgKumgAzRo8V9i9NdDN" class="button button--block" target="_blank">
+    <img src="/images/Spotify_Logo.png" alt="spotify logo">
+    Słuchaj na Spotify
+</a>
+<a href="https://podcasts.apple.com/us/podcast/czary-stwory-i-kolokwia/id1709952800" class="button button--block" target="_blank">
+    <img src="/images/ApplePodcasts.png" alt="apple podcasts logo">
+    Słuchaj na Apple Podcasts
+</a>
+<a href="https://www.youtube.com/channel/UCYkAd3EDzqaoagXixk8Ucdg" class="button button--block" target="_blank">
+    <img src="/images/YouTube.png" alt="youtube logo">
+    Słuchaj na YouTube
+</a>
