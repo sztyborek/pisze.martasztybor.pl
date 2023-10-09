@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sekretne życie mózgów – część II"
-date:   2023-10-10 01:00:00 +0100
+date:   2023-10-09 01:00:00 +0100
 categories: ["Opowiadania"]
 summary: Eliza poruszała się cicho jak kot, gdy boso stąpała po schodach i omiatała klatkę schodową światłem latarki. Rzeźbiona balustrada rzucała na ściany upiorne cienie. Dziewczyna musiała stawiać stopy bardzo ostrożnie, tak, aby żaden z drewnianych stopni nie wydał z siebie skrzypiącego jęku. Zeszła na parter i z ulgą poczuła pod stopami chropowatość starego parkietu. Starała się nie spoglądać w górę, na sufit, gdzie o tej porze roiło się już od czarnych, tłustych pająków.
 image: /images/korytarz.jpg
