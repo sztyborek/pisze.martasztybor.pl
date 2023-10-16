@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sekretne życie mózgów – część III"
-date:   2023-10-17 01:00:00 +0100
+date:   2023-10-16 01:00:00 +0100
 categories: ["Opowiadania"]
 summary: Alina oderwała się od całkiem przystojnego faceta i podziękowała mu za wspólny taniec. Chłopak przedstawił się jako Barry, wokalista rockowego zespołu Zgubione Majty. Był całkiem miły. Alina nie chciała przed nim zdradzać, że nigdy nie była na ich koncercie. Dziewczyna wmieszała się w tańczący tłum, który bujał się w rytm transowej muzyki. Powietrze było duszne, przesiąknięte ostrym zapachem perfum i dymem z palonych skrętów. Alina przymknęła na chwilę powieki i dała się porwać muzyce.
 image: /images/impreza.jpg
