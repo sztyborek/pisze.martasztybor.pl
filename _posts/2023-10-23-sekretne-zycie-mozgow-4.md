@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sekretne życie mózgów – część IV"
-date:   2023-10-24 01:00:00 +0100
+date:   2023-10-23 01:00:00 +0100
 categories: ["Opowiadania"]
 summary: Deszcz chlustał o szyby, jakby gromada wściekłych płanetników postanowiła zatopić Warszawę. Korony drzew wyginały się od porywistego wiatru. Na opustoszałych korytarzach Akademiczka słychać było tylko gwizd wiatru w szybach wentylacji i rzęsiste uderzenia kropel o okna. Studenci pochowali się w pokojach jak spłoszone zające. Tego wieczoru wydarzyło się coś niebywałego. Coś, co z pewnością mogłoby zostać odnotowane w kronikach akademika, gdyby ktoś kiedykolwiek zdecydował się takie założyć.
 image: /images/mozg-krul.jpg
