@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sekretne życie mózgów – część V"
-date:   2023-10-31 01:00:00 +0100
+date:   2023-10-30 01:00:00 +0100
 categories: ["Opowiadania"]
 summary: Alina podążała na palcach do miejsca zbiórki. Do skórzanego pasa przytroczyła linę i kilka jutowych worków, a w prawej dłoni trzymała kij baseballowy, który wciąż nosił ślady po nieudanym starciu z mózgiem. Serce waliło jej w piersi jakby było wyrywającym się na wolność zwierzęciem. Mieli spotkać się przed wejściem do biblioteki. Gdy Alina zbiegała po schodach, wciąż nie miała pewności, czy ktokolwiek pojawi się na miejscu. Zatrzymała się na parterze i oparła o rzeźbioną balustradę.
 image: /images/grota.jpg
