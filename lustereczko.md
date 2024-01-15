@@ -5,8 +5,6 @@ permalink: /lustereczko-powiedz/
 image: /images/lustereczko-mockup.png
 ---
 
-<p class="book__preview">Zapowiedź</p>
-
 ## Lustereczko, powiedz!
 
 Data premiery: 29 listopada 2023
@@ -21,15 +19,20 @@ Jednak następnego ranka to Laura budzi się z nową twarzą.
 
 Okładkę zaprojektowała <a href="https://instagram.com/dixieleota/">Dixie Leota</a>.
 
-Kategoria wiekowa: 15+
+Kategoria wiekowa: 13+
 
-<a href="/files/lustereczko-powiedz-marta-sztybor.pdf" download class="button secondary">
+<br>
+<a href="https://www.empik.com/lustereczko-powiedz-marta-sztybor,p1426252910,ksiazka-p" class="button button--block" target="_blank">
+    Kup książkę
+</a>
+<a href="https://www.legimi.pl/ebook-lustereczko-powiedz-marta-sztybor,b1082391.html" class="button button--block" target="_blank">
+    Czytaj z Legimi
+</a>
+<br>
+<a href="/files/lustereczko-powiedz-marta-sztybor.pdf" download class="button secondary button--block">
     <span class="fa-solid fa-download"></span>
     Pobierz darmowy fragment
 </a>
-
-<div class="ml-embedded" data-form="efvy7p"></div>
-<p class="book__privacy-policy">Przed zapisaniem się do newslettera zapoznaj się z <a href="/polityka-prywatnosci/">Polityką Prywatności</a>.</p>
 
 <blockquote>
     Na końcu korytarza sznur dziwolągów, ofiar nieskrępowanej magii Akademiczka, czekał w kolejce do pokoju Strzygi. Tym razem studentów było niewielu. Laura naliczyła pięć osób oraz jedną, łaciatą jak dalmatyńczyk kozę, którą trzymał na sznurku wystraszony chłopak. Niektórzy chowali twarze pod ciemnymi kapturami i okularami. Nieszczęśnik na końcu kolejki nie zdołał jednak ukryć macek ośmiornicy, które wylewały się spod długich rękawów jego bluzy i ciągnęły za nim po podłodze.
